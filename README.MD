@@ -1,6 +1,6 @@
 # Struktúraváltó képzés
 ## Junior Automata Tesztelő szak
-### Záróvizsga vizsga
+### Záróvizsga (próba)
 
 Üdvözöllek a záróvizsga gyakorlati részén (próbavizsga 1).
 
