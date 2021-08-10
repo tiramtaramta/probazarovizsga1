@@ -49,5 +49,4 @@ try:
     assert departure_time_text.text == f"{time}", "Test Failed: Nem jó idő szerepel."
 
 finally:
-    pass
-    # driver.quit()
+    driver.quit()
